@@ -1,0 +1,5 @@
+﻿equipment_id,equipment_name,sector,installation_date,criticality
+EQ-01,Prensa Hidráulica A1,Estampagem,2018-01-15,Alta
+EQ-02,Robô de Solda B2,Montagem,2018-06-20,Crítica
+EQ-03,Centro de Usinagem C3,Usinagem,2019-01-10,Alta
+EQ-04,Linha de Pintura D4,Acabamento,2018-11-05,Média
